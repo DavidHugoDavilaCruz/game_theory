@@ -1,8 +1,7 @@
 // Estrategia de Misha
 // Mishael Manrrique Taboada
 // Brayan Coquira Cruz
-// Franz Mamani Menacho
-
+// Franz Mamani Mejjjjjj
 
 module.exports = {
     name: 'Estrategia de Misha',
